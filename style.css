@@ -1,4 +1,5 @@
 table {
+    margin-top: 10px;
    margin-left: auto;
    margin-right: auto;
    border: 2px solid black;
@@ -9,4 +10,11 @@ table {
 td {
     text-align: center;
     border: 2px solid black;
+}
+.div-win{  
+    text-align: center;
+}
+
+.div-restart{  
+    text-align: center;
 }
