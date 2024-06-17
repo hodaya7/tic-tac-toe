@@ -1,15 +1,15 @@
 table {
-    margin-top: 10px;
+   margin-top: 100px;
    margin-left: auto;
    margin-right: auto;
-   border: 2px solid black;
+   /* border: 5px solid purple; */
    width: 200px;
    height: 200px;
 }
 
 td {
     text-align: center;
-    border: 2px solid black;
+    border: 5px solid pink;
 }
 .div-win{  
     text-align: center;
@@ -17,4 +17,14 @@ td {
 
 .div-restart{  
     text-align: center;
+}
+
+
+table button {
+    width: 100%;
+    height: 100%;
+}
+
+button {
+    background-color: lightblue;
 }
